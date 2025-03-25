@@ -13,9 +13,4 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
 ![image](https://github.com/user-attachments/assets/70ea4dbc-6c10-418b-a481-420ec598369b)
-
-
-
-[# Java-Exercise-1-Dio.me](https://web.dio.me/)
-
 ![image](https://github.com/user-attachments/assets/98561439-8a72-4a51-9c43-5e9bfe8de435)
