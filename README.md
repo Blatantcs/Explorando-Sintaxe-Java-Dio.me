@@ -12,7 +12,8 @@ O saldo final da conta bancária após as três transações.
 Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/70ea4dbc-6c10-418b-a481-420ec598369b)
+
 
 
 [# Java-Exercise-1-Dio.me](https://web.dio.me/)
